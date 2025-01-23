@@ -10,6 +10,5 @@ def home():
     """
     return "<h1>Welcome to Home page<h1/>"
  
- 
 if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0')
